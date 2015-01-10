@@ -5,6 +5,5 @@
 	"clojure.coffee",
 	"spotify.coffee",
 	"salesforce.coffee",
-	"xkcd.coffee",
-	"cleverbot.coffee"
+	"xkcd.coffee"
 ]
