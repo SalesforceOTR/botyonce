@@ -4,5 +4,6 @@
 	"ascii.coffee",
 	"clojure.coffee",
 	"octocat.coffee",
-	"karma.coffee"
+	"karma.coffee",
+	"android-os.coffee"
 ]
