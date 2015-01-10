@@ -1,1 +1,5 @@
-["keep-alive.coffee", "fuck_yeah_nouns.coffee"]
+[
+	"keep-alive.coffee", 
+	"fuck_yeah_nouns.coffee",
+	ascii.coffee"
+]
