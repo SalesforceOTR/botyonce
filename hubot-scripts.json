@@ -4,5 +4,6 @@
 	"ascii.coffee",
 	"clojure.coffee",
 	"spotify.coffee",
-	"salesforce.coffee"
+	"salesforce.coffee",
+	"xkcd.coffee"
 ]
