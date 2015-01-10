@@ -1,5 +1,6 @@
 [
 	"keep-alive.coffee", 
 	"fuck_yeah_nouns.coffee",
-	ascii.coffee"
+	"ascii.coffee",
+	"bitcoin.coffee"
 ]
