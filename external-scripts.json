@@ -11,5 +11,6 @@
   "hubot-shipit",
   "hubot-youtube",
 	"hubot-standup-alarm",
-	"hubot-google-hangouts"
+	"hubot-google-hangouts",
+	"hubot-darksky"
 ]

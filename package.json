@@ -6,6 +6,7 @@
   "description": "thank you",
   "dependencies": {
     "hubot": "^2.11.0",
+    "hubot-darksky": "^1.0.2",
     "hubot-diagnostics": "0.0.1",
     "hubot-google-hangouts": "^0.7.1",
     "hubot-google-images": "^0.1.2",
