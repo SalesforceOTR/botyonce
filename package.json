@@ -22,6 +22,7 @@
     "hubot-redis-brain": "0.0.2",
     "hubot-rules": "^0.1.0",
     "hubot-scripts": "^2.5.16",
+    "hubot-sentimental": "^1.0.3",
     "hubot-shipit": "^0.1.1",
     "hubot-standup-alarm": "0.0.3",
     "hubot-tell": "^1.2.3",

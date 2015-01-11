@@ -18,5 +18,6 @@
 	"hubot-qr",
 	"hubot-mute",
 	"hubot-rules",
-	"hubot-uptimerobot"
+	"hubot-uptimerobot",
+	"hubot-sentimental"
 ]
