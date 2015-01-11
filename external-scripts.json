@@ -16,5 +16,6 @@
 	"hubot-fliptable",
 	"hubot-tell",
 	"hubot-qr",
-	"hubot-mute"
+	"hubot-mute",
+	"hubot-rules"
 ]
