@@ -16,6 +16,7 @@
     "hubot-heroku-keepalive": "0.0.4",
     "hubot-irc": "^0.2.7",
     "hubot-maps": "0.0.1",
+    "hubot-mute": "0.0.5",
     "hubot-pugme": "^0.1.0",
     "hubot-qr": "0.0.2",
     "hubot-redis-brain": "0.0.2",
