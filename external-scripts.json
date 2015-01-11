@@ -15,5 +15,6 @@
 	"hubot-darksky",
 	"hubot-fliptable",
 	"hubot-tell",
-	"hubot-qr"
+	"hubot-qr",
+	"hubot-mute"
 ]
