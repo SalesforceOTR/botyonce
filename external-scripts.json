@@ -17,5 +17,6 @@
 	"hubot-tell",
 	"hubot-qr",
 	"hubot-mute",
-	"hubot-rules"
+	"hubot-rules",
+	"hubot-uptimerobot"
 ]

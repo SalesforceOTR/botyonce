@@ -25,6 +25,7 @@
     "hubot-shipit": "^0.1.1",
     "hubot-standup-alarm": "0.0.3",
     "hubot-tell": "^1.2.3",
+    "hubot-uptimerobot": "0.0.3",
     "hubot-youtube": "^0.1.2"
   },
   "engines": {
