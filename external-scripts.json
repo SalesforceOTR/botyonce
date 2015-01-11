@@ -21,5 +21,6 @@
 	"hubot-uptimerobot",
 	"hubot-sentimental",
 	"hubot-devops-reactions",
-	"hubot-bikeshed"
+	"hubot-bikeshed",
+	"hubot-tweets"
 ]
