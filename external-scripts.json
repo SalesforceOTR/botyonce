@@ -19,5 +19,6 @@
 	"hubot-mute",
 	"hubot-rules",
 	"hubot-uptimerobot",
-	"hubot-sentimental"
+	"hubot-sentimental",
+	"hubot-devops-reactions"
 ]
