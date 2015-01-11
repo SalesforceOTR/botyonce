@@ -6,6 +6,7 @@
   "description": "thank you",
   "dependencies": {
     "hubot": "^2.11.0",
+    "hubot-bikeshed": "^1.1.0",
     "hubot-darksky": "^1.0.2",
     "hubot-devops-reactions": "^1.0.2",
     "hubot-diagnostics": "0.0.1",

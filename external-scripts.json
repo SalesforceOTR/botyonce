@@ -20,5 +20,6 @@
 	"hubot-rules",
 	"hubot-uptimerobot",
 	"hubot-sentimental",
-	"hubot-devops-reactions"
+	"hubot-devops-reactions",
+	"hubot-bikeshed"
 ]
