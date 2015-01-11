@@ -1,0 +1,7 @@
+{
+  "name": "botyonce",
+  "description": "Hubot for ##salesforce",
+  "repository": "https://git.heroku.com/botyonce.git",
+  "logo": "https://node-js-sample.herokuapp.com/node.svg",
+  "keywords": ["salesforce", "##salesforce"]
+}
