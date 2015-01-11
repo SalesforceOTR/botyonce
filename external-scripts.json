@@ -13,5 +13,7 @@
 	"hubot-standup-alarm",
 	"hubot-google-hangouts",
 	"hubot-darksky",
-	"hubot-fliptable"
+	"hubot-fliptable",
+	"hubot-tell",
+	"hubot-qr"
 ]
