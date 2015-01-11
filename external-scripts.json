@@ -20,6 +20,5 @@
 	"hubot-uptimerobot",
 	"hubot-devops-reactions",
 	"hubot-bikeshed",
-	"hubot-tweets",
-	"hubot-github-repo-event-notifier"
+	"hubot-tweets"
 ]
