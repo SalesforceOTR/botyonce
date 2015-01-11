@@ -52,7 +52,7 @@ To enable scripts from the hubot-scripts package, add the script name with
 extension as a double quoted string to the `hubot-scripts.json` file in this
 repo.
 
-[hubot-scripts]: https://github.com/github/hubot-scripts
+[hubot-scripts]: https://github.com/hubot-scripts
 
 ### external-scripts
 
