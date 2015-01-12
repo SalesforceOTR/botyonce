@@ -100,10 +100,6 @@ You can review `external-scripts.json` to see what is included by default.
 
  botyonce hangout me [title] - Creates a Hangout with the given title and returns the URL.
 
- botyonce help - Displays all of the help commands that botyonce knows about.
-
- botyonce help <query> - Displays all help commands that match <query>.
-
  botyonce image me <query> - The Original. Queries Google Images for <query> and returns a random top result.
 
  botyonce keep http://ninjas-20.herokuapp.com alive - Add inputted url to the collection of urls set to be pinged
@@ -125,10 +121,6 @@ You can review `external-scripts.json` to see what is included by default.
  botyonce salesforce query <query> - runs an arbitrary SOQL query and outputs the results
 
  botyonce tell <recipients> <some message> - tell <recipients> <some message> next time they are present.
-
- botyonce the rules - Make sure botyonce still knows the rules.
-
- botyonce the rules - Make sure botyonce still knows the rules.
 
  botyonce time - Reply with current time
 
