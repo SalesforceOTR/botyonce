@@ -90,7 +90,7 @@ You can review `external-scripts.json` to see what is included by default.
 
  botyonce ascii me <text> - Show text in ascii art
 
- botyonce clojure|clj <script> - Evaluate one line of Clojure script
+ botyonce clojure|clj [script] - Evaluate one line of Clojure script
 
  botyonce don't keep http://ninjas-20.herokuapp.com alive - Remove inputted url to the collection of urls set to be pinged
 
@@ -98,7 +98,7 @@ You can review `external-scripts.json` to see what is included by default.
 
  botyonce flip - botyonce flips a table
 
- botyonce hangout me <title> - Creates a Hangout with the given title and returns the URL.
+ botyonce hangout me [title] - Creates a Hangout with the given title and returns the URL.
 
  botyonce help - Displays all of the help commands that botyonce knows about.
 
@@ -140,7 +140,7 @@ You can review `external-scripts.json` to see what is included by default.
 
  botyonce uptime <filter> - Returns uptime for sites.
 
- botyonce uptime add-check <http://example.com> [as <friendlyname>]- Adds a new uptime check.
+ botyonce uptime add-check [http://example.com] [as [friendlyname]- Adds a new uptime check.
 
  botyonce weather - Get the weather for botyonce_DARK_SKY_DEFAULT_LOCATION
 
