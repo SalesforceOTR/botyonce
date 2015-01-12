@@ -9,6 +9,7 @@
     "hubot-bikeshed": "^1.1.0",
     "hubot-darksky": "^1.0.2",
     "hubot-devops-reactions": "^1.0.2",
+    "hubot-diabetes": "^2.2.0",
     "hubot-diagnostics": "0.0.1",
     "hubot-fliptable": "^1.2.0",
     "hubot-google-hangouts": "^0.7.1",
