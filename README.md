@@ -151,3 +151,13 @@ You can review `external-scripts.json` to see what is included by default.
  botyonce: qr me <url> - turn a URL into a QR Code
 
  ship it - Display a motivation squirrel
+
+ ## TRIVIA
+
+	!trivia - ask a question
+
+	!skip - skip the current question
+
+	!answer or !a - provide an answer
+
+	!score - check the score of the player
