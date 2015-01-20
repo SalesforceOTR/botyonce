@@ -12,6 +12,7 @@
     "hubot-darksky": "^1.0.2",
     "hubot-devops-reactions": "^1.0.2",
     "hubot-diagnostics": "0.0.1",
+    "hubot-domainr": "^1.0.2",
     "hubot-explainshell": "^1.1.0",
     "hubot-fliptable": "^1.2.0",
     "hubot-gglurl": "0.0.3",

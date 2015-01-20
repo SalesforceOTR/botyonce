@@ -40,5 +40,6 @@
     "hubot-yourface",
     "hubot-woah",
     "hubot-misname",
-    "hubot-mimic"
+    "hubot-mimic",
+    "hubot-domainr"
 ]
