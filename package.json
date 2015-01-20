@@ -13,6 +13,7 @@
     "hubot-canary": "^0.1.1",
     "hubot-codingexcuses": "^1.0.0",
     "hubot-darksky": "^1.0.2",
+    "hubot-darts": "^1.0.1",
     "hubot-devops-reactions": "^1.0.2",
     "hubot-diagnostics": "0.0.1",
     "hubot-domainr": "^1.0.2",
