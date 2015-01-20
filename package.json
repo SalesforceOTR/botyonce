@@ -55,6 +55,7 @@
     "hubot-smash-boobs": "^2.0.0",
     "hubot-spotify-search": "^1.0.0",
     "hubot-standup-alarm": "0.0.3",
+    "hubot-steal": "0.0.2",
     "hubot-stockholm": "0.0.2",
     "hubot-subreddit-linker": "^1.1.0",
     "hubot-tell": "^1.2.3",
