@@ -53,5 +53,6 @@
     "hubot-panerabread",
     "hubot-introduce",
     "hubot-simpsons",
-    "hubot-darts"
+    "hubot-darts",
+    "hubot-gamestatus"
 ]

@@ -19,6 +19,7 @@
     "hubot-domainr": "^1.0.2",
     "hubot-explainshell": "^1.1.0",
     "hubot-fliptable": "^1.2.0",
+    "hubot-gamestatus": "0.0.4",
     "hubot-gglurl": "0.0.3",
     "hubot-gistme": "^0.1.1",
     "hubot-google-hangouts": "^0.7.1",
