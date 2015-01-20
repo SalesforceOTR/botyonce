@@ -59,5 +59,6 @@
     "hubot-voting",
     "hubot-bart",
     "hubot-ikr",
-    "hubot-starven"
+    "hubot-starven",
+    "hubot-markov"
 ]
