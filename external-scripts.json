@@ -23,5 +23,7 @@
     "hubot-smash-boobs",
     "hubot-sentiment",
     "hubot-impersonate",
-    "hubot-remind-at"
+    "hubot-remind-at",
+    "hubot-explainshell",
+    "hubot-help"
 ]
