@@ -22,5 +22,6 @@
     "hubot-trivia-game",
     "hubot-smash-boobs",
     "hubot-sentiment",
-    "hubot-impersonate"
+    "hubot-impersonate",
+    "hubot-remind-at"
 ]

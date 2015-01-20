@@ -22,6 +22,7 @@
     "hubot-mute": "0.0.5",
     "hubot-qr": "0.0.2",
     "hubot-redis-brain": "0.0.2",
+    "hubot-remind-at": "0.0.1",
     "hubot-rules": "^0.1.0",
     "hubot-scripts": "^2.5.16",
     "hubot-sentiment": "^1.2.5",
