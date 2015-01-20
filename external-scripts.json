@@ -20,5 +20,6 @@
     "hubot-bikeshed",
     "hubot-tweets",
     "hubot-trivia-game",
-    "hubot-smash-boobs"
+    "hubot-smash-boobs",
+    "hubot-sentiment"
 ]
