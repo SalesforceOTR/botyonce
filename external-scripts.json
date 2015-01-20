@@ -55,5 +55,6 @@
     "hubot-simpsons",
     "hubot-darts",
     "hubot-gamestatus",
-    "hubot-subreddit-linker"
+    "hubot-subreddit-linker",
+    "hubot-artsy"
 ]
