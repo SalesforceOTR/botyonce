@@ -46,5 +46,6 @@
     "hubot-codingexcuses",
     "hubot-canary",
     "hubot-paste",
-    "hubot-twitterstream-script"
+    "hubot-twitterstream-script",
+    "hubot-in-space"
 ]
