@@ -25,5 +25,6 @@
     "hubot-impersonate",
     "hubot-remind-at",
     "hubot-explainshell",
-    "hubot-help"
+    "hubot-help",
+    "hubot-note"
 ]

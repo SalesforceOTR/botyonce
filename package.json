@@ -21,6 +21,7 @@
     "hubot-irc": "^0.2.7",
     "hubot-maps": "0.0.1",
     "hubot-mute": "0.0.5",
+    "hubot-note": "0.0.3",
     "hubot-qr": "0.0.2",
     "hubot-redis-brain": "0.0.2",
     "hubot-remind-at": "0.0.1",
