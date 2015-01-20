@@ -27,5 +27,6 @@
     "hubot-explainshell",
     "hubot-help",
     "hubot-note",
-    "hubot-botriot"
+    "hubot-botriot",
+    "hubot-insulter"
 ]
