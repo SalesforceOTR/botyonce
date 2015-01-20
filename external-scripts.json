@@ -45,5 +45,6 @@
     "hubot-urban",
     "hubot-codingexcuses",
     "hubot-canary",
-    "hubot-paste"
+    "hubot-paste",
+    "hubot-twitterstream-script"
 ]
