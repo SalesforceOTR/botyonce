@@ -7,7 +7,6 @@
   "dependencies": {
     "hubot": "^2.11.0",
     "hubot-appearin": "^1.0.2",
-    "hubot-artsy": "^1.0.1",
     "hubot-ascii-faces": "^1.0.2",
     "hubot-bikeshed": "^1.1.0",
     "hubot-botriot": "0.0.2",
