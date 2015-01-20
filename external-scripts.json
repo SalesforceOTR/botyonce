@@ -47,5 +47,6 @@
     "hubot-canary",
     "hubot-paste",
     "hubot-twitterstream-script",
-    "hubot-in-space"
+    "hubot-in-space",
+    "hubot-quote-database"
 ]

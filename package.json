@@ -35,6 +35,7 @@
     "hubot-note": "0.0.3",
     "hubot-paste": "^1.0.0",
     "hubot-qr": "0.0.2",
+    "hubot-quote-database": "^1.0.0",
     "hubot-redis-brain": "0.0.2",
     "hubot-regex": "0.0.3",
     "hubot-remind-at": "0.0.1",
