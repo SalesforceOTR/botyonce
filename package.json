@@ -24,6 +24,7 @@
     "hubot-insulter": "^1.0.2",
     "hubot-irc": "^0.2.7",
     "hubot-maps": "0.0.1",
+    "hubot-mimic": "^0.1.1",
     "hubot-misname": "0.0.1",
     "hubot-mute": "0.0.5",
     "hubot-note": "0.0.3",

@@ -39,5 +39,6 @@
     "hubot-spotify-search",
     "hubot-yourface",
     "hubot-woah",
-    "hubot-misname"
+    "hubot-misname",
+    "hubot-mimic"
 ]
