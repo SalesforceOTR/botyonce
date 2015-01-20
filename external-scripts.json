@@ -54,6 +54,6 @@
     "hubot-gamestatus",
     "hubot-subreddit-linker",
     "hubot-seriouslyguys",
-    "npm install --save hubot-steal",
+    "hubot-steal",
     "hubot-javascript"
 ]
