@@ -30,5 +30,6 @@
     "hubot-botriot",
     "hubot-insulter",
     "hubot-gglurl",
-    "hubot-thank-you"
+    "hubot-thank-you",
+    "hubot-seen"
 ]
