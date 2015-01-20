@@ -44,5 +44,6 @@
     "hubot-domainr",
     "hubot-urban",
     "hubot-codingexcuses",
-    "hubot-canary"
+    "hubot-canary",
+    "hubot-paste"
 ]
