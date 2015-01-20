@@ -28,6 +28,7 @@
     "hubot-note": "0.0.3",
     "hubot-qr": "0.0.2",
     "hubot-redis-brain": "0.0.2",
+    "hubot-regex": "0.0.3",
     "hubot-remind-at": "0.0.1",
     "hubot-rules": "^0.1.0",
     "hubot-screenhero": "^1.0.0",
