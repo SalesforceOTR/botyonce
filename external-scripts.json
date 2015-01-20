@@ -50,5 +50,6 @@
     "hubot-in-space",
     "hubot-quote-database",
     "hubot-ascii-faces",
-    "hubot-panerabread"
+    "hubot-panerabread",
+    "hubot-introduce"
 ]
