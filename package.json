@@ -8,6 +8,7 @@
     "hubot": "^2.11.0",
     "hubot-appearin": "^1.0.2",
     "hubot-ascii-faces": "^1.0.2",
+    "hubot-bart": "^1.0.6",
     "hubot-bikeshed": "^1.1.0",
     "hubot-botriot": "0.0.2",
     "hubot-canary": "^0.1.1",
