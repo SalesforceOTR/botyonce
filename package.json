@@ -49,6 +49,7 @@
     "hubot-seen": "^0.2.2",
     "hubot-sentiment": "^1.2.5",
     "hubot-shipit": "^0.1.1",
+    "hubot-simpsons": "0.0.2",
     "hubot-smash-boobs": "^2.0.0",
     "hubot-spotify-search": "^1.0.0",
     "hubot-standup-alarm": "0.0.3",
