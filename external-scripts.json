@@ -35,5 +35,6 @@
     "hubot-stockholm",
     "hubot-url-describer",
     "hubot-screenhero",
-    "hubot-gistme"
+    "hubot-gistme",
+    "hubot-spotify-search"
 ]
