@@ -51,6 +51,7 @@
     "hubot-scripts": "^2.5.16",
     "hubot-seen": "^0.2.2",
     "hubot-sentiment": "^1.2.5",
+    "hubot-seriouslyguys": "^1.0.0",
     "hubot-shipit": "^0.1.1",
     "hubot-simpsons": "0.0.2",
     "hubot-smash-boobs": "^2.0.0",
