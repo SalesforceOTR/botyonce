@@ -33,6 +33,7 @@
     "hubot-insulter": "^1.0.2",
     "hubot-introduce": "^1.0.3",
     "hubot-irc": "^0.2.7",
+    "hubot-javascript": "0.0.7",
     "hubot-maps": "0.0.1",
     "hubot-mimic": "^0.1.1",
     "hubot-misname": "0.0.1",
