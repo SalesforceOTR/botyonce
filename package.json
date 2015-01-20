@@ -35,6 +35,7 @@
     "hubot-smash-boobs": "^2.0.0",
     "hubot-standup-alarm": "0.0.3",
     "hubot-tell": "^1.2.3",
+    "hubot-thank-you": "0.0.3",
     "hubot-trivia-game": "^1.0.5",
     "hubot-tweets": "0.0.1",
     "hubot-uptimerobot": "0.0.3",
