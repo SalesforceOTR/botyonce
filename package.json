@@ -56,6 +56,7 @@
     "hubot-spotify-search": "^1.0.0",
     "hubot-standup-alarm": "0.0.3",
     "hubot-stockholm": "0.0.2",
+    "hubot-subreddit-linker": "^1.1.0",
     "hubot-tell": "^1.2.3",
     "hubot-thank-you": "0.0.3",
     "hubot-trivia-game": "^1.0.5",
