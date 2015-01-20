@@ -43,5 +43,6 @@
     "hubot-mimic",
     "hubot-domainr",
     "hubot-urban",
-    "hubot-codingexcuses"
+    "hubot-codingexcuses",
+    "hubot-canary"
 ]
