@@ -36,5 +36,6 @@
     "hubot-url-describer",
     "hubot-screenhero",
     "hubot-gistme",
-    "hubot-spotify-search"
+    "hubot-spotify-search",
+    "hubot-yourface"
 ]
