@@ -55,5 +55,6 @@
     "hubot-subreddit-linker",
     "hubot-seriouslyguys",
     "hubot-steal",
-    "hubot-javascript"
+    "hubot-javascript",
+    "hubot-voting"
 ]
