@@ -16,6 +16,7 @@
     "hubot-google-translate": "^0.1.0",
     "hubot-help": "^0.1.1",
     "hubot-heroku-keepalive": "0.0.4",
+    "hubot-impersonate": "^2.0.0",
     "hubot-irc": "^0.2.7",
     "hubot-maps": "0.0.1",
     "hubot-mute": "0.0.5",
