@@ -31,6 +31,7 @@
     "hubot-regex": "0.0.3",
     "hubot-remind-at": "0.0.1",
     "hubot-rules": "^0.1.0",
+    "hubot-scala": "^1.0.2",
     "hubot-screenhero": "^1.0.0",
     "hubot-scripts": "^2.5.16",
     "hubot-seen": "^0.2.2",
