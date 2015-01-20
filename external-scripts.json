@@ -49,5 +49,6 @@
     "hubot-twitterstream-script",
     "hubot-in-space",
     "hubot-quote-database",
-    "hubot-ascii-faces"
+    "hubot-ascii-faces",
+    "hubot-panerabread"
 ]
