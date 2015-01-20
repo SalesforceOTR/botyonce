@@ -34,5 +34,6 @@
     "hubot-seen",
     "hubot-stockholm",
     "hubot-url-describer",
-    "hubot-screenhero"
+    "hubot-screenhero",
+    "hubot-gistme"
 ]
