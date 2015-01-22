@@ -14,7 +14,6 @@
     "hubot-tell",
     "hubot-qr",
     "hubot-mute",
-    "hubot-rules",
     "hubot-uptimerobot",
     "hubot-devops-reactions",
     "hubot-bikeshed",
@@ -26,12 +25,10 @@
     "hubot-remind-at",
     "hubot-explainshell",
     "hubot-help",
-    "hubot-botriot",
     "hubot-insulter",
     "hubot-gglurl",
     "hubot-thank-you",
     "hubot-seen",
-    "hubot-stockholm",
     "hubot-screenhero",
     "hubot-spotify-search",
     "hubot-yourface",
@@ -41,7 +38,6 @@
     "hubot-domainr",
     "hubot-urban",
     "hubot-codingexcuses",
-    "hubot-canary",
     "hubot-paste",
     "hubot-in-space",
     "hubot-quote-database",
@@ -57,7 +53,5 @@
     "hubot-javascript",
     "hubot-voting",
     "hubot-bart",
-    "hubot-ikr",
-    "hubot-starven",
-    "hubot-markov"
+    "hubot-ikr"
 ]
